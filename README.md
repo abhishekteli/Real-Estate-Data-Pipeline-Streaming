@@ -15,3 +15,6 @@ The persistence layer, integrated within the streamingGold class, focuses on sto
 
 ## Execution Flow
 The execution begins with the streamingBronze class initiating data extraction and publishing to Kafka. Concurrently, streamingGold reads this stream, applying transformations and persisting the results to the database. This loop continues, governed by user inputs for different locations or termination requests, showcasing a responsive and iterative data processing pipeline that adapts to user needs and market changes.
+
+
+<img width="1055" alt="Screenshot 2024-03-13 at 10 31 22 PM" src="https://github.com/abhishekteli/Real-Estate-Data-Pipeline-Streaming/assets/26431142/3387adab-7710-43bc-b144-714deb70498c">

@@ -1,0 +1,4 @@
+dateSold,lotAreaValue,priceChange,zestimate,initialPrice,bedrooms,longitude,latitude,listingStatus,zpid,rent,daysOnZillow,bathrooms,livingArea,country,currency,lotAreaUnit,hasImage,street,city,state,zip,currentPrice,loadDate
+,0.0,0.0,0.0,39000,1,-121.73094,37.242287,FOR_SALE,343996632,0.0,1,1.0,373,USA,USD,,true,37B 200 Frd,San Jose,CA,95138,39000.0,2024-03-13
+,0.0,0.0,0.0,39000,1,-121.73094,37.242287,FOR_SALE,343996632,0.0,1,1.0,373,USA,USD,,true,37B 200 Frd,San Jose,CA,95138,39000.0,2024-03-13
+,0.0,0.0,0.0,39000,1,-121.73094,37.242287,FOR_SALE,343996632,0.0,1,1.0,373,USA,USD,,true,37B 200 Frd,San Jose,CA,95138,39000.0,2024-03-13
